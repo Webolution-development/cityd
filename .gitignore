@@ -1,5 +1,7 @@
 # Keep these files out of the repo
 themes/twenty*
+themes/cityd/bower_components
+themes/cityd/node_modules
 upgrade
 uploads
 sitemap.*
